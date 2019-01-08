@@ -6,9 +6,9 @@ Motivation for this project is to use wireframes for generating code. This is te
 
 There are 3 views:
 
-Editor - where you assemble component
-Preview - live preview of changes
-Tree - where you see json representation of what you assembled in editor (this information is used to generate code based on whatever framework you like (react, angular...), Preview for example is built with tree using react)
+- Editor - where you assemble component
+- Preview - live preview of changes
+- Tree - where you see json representation of what you assembled in editor (this information is used to generate code based on whatever framework you like (react, angular...), Preview for example is built with tree using react)
 
 The idea is that we don’t build website with tree information, instead we generate code, because you can’t predict all logic that can be required on page, this custom logic can be added by developer.
 
