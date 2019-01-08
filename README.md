@@ -2,6 +2,8 @@
 
 Motivation for this project is to use wireframes for generating code. This is text editor plus tools to assemble website or separate components, preview result and generate code.
 
+![Demo](./docs/demo.gif "Demo")
+
 There are 3 views:
 
 Editor - where you assemble component
@@ -10,7 +12,7 @@ Tree - where you see json representation of what you assembled in editor (this i
 
 The idea is that we don’t build website with tree information, instead we generate code, because you can’t predict all logic that can be required on page, this custom logic can be added by developer.
 
-![alt text](./docs/interface.png "Interface")
+![Interface](./docs/interface.png "Interface")
 
 Components
 
