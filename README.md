@@ -1,4 +1,4 @@
-***Start developing not from 0 but from wireframes***
+**Start developing not from 0 but from wireframes**
 
 Motivation for this project is to use wireframes for generating code. This is text editor plus tools to assemble website or separate components, preview result and generate code.
 
